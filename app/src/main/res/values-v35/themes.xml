@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
     <style name="Theme.Eshop" parent="Theme.Material3.Light.NoActionBar">
@@ -48,9 +49,5 @@
         <item name="colorSurfaceContainer">@color/md_theme_surfaceContainer</item>
         <item name="colorSurfaceContainerHigh">@color/md_theme_surfaceContainerHigh</item>
         <item name="colorSurfaceContainerHighest">@color/md_theme_surfaceContainerHighest</item>
-    </style>
-
-    <style name="Theme.EShop.FullScreen" parent="Theme.Eshop">
-        <item name="android:windowFullscreen">true</item>
     </style>
 </resources>
