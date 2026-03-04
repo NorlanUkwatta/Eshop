@@ -1,0 +1,21 @@
+# IDE / Android Studio files
+*.iml                         # IntelliJ module files
+/.idea/caches                  # IDE caches (machine-specific)
+/.idea/libraries               # Library configs (local)
+/.idea/modules.xml             # Module config (local)
+/.idea/workspace.xml           # IDE workspace settings
+/.idea/navEditor.xml           # Android Studio navigation editor
+/.idea/assetWizardSettings.xml # Android Studio asset wizard
+.DS_Store                      # macOS system files
+
+# Gradle build output
+/build                         # Project & app build outputs
+/captures                      # Screenshots or recordings
+.externalNativeBuild           # CMake/NDK build outputs
+.cxx                           # NDK build cache
+
+# Secrets & local config
+local.properties               # SDK path & local API keys
+
+# Optional: Gradle wrapper / cache (if you want)
+.gradle                        # Gradle cache folder (local)
